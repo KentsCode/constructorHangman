@@ -1,0 +1,28 @@
+{
+  "name": "constructorhangman",
+  "version": "1.0.0",
+  "description": "Hangman style game played in the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KentsCode/constructorHangman.git"
+  },
+  "keywords": [
+    "hangman",
+    "game",
+    "command",
+    "line"
+  ],
+  "author": "Kent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KentsCode/constructorHangman/issues"
+  },
+  "homepage": "https://github.com/KentsCode/constructorHangman#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
